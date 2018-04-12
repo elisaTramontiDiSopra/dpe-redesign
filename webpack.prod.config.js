@@ -39,7 +39,10 @@ module.exports = function(env) {
         },
         {
           test: /(?:\.ngfactory\.js|\.ngstyle\.js|\.ts)$/,
-          use: ['@ngtools/webpack']
+          use: [
+            '@ngtools/webpack',
+            'awesome-typescript-loader',
+          ]
         }
       ]
     },

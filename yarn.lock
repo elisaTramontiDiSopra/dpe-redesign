@@ -75,6 +75,40 @@
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/@angularclass/hmr/-/hmr-2.1.3.tgz#34e658ed3da37f23b0a200e2da5a89be92bb209f"
 
+"@fortawesome/fontawesome-common-types@^0.1.3", "@fortawesome/fontawesome-common-types@^0.1.4":
+  version "0.1.4"
+  resolved "https://npm.fontawesome.com/9FB82052-D159-457E-8222-7547D2502DE8/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.1.4.tgz#1fbc66f0223646f23c5550c2c12e341078e2c262"
+
+"@fortawesome/fontawesome-free-brands@^5.0.8":
+  version "5.0.10"
+  resolved "https://npm.fontawesome.com/9FB82052-D159-457E-8222-7547D2502DE8/@fortawesome/fontawesome-free-brands/-/fontawesome-free-brands-5.0.10.tgz#37f007a2f548682c8bfb7086b7e03dc65758580a"
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.1.4"
+
+"@fortawesome/fontawesome-pro-light@^5.0.8":
+  version "5.0.10"
+  resolved "https://npm.fontawesome.com/9FB82052-D159-457E-8222-7547D2502DE8/@fortawesome/fontawesome-pro-light/-/fontawesome-pro-light-5.0.10.tgz#6880ecdcfdc3dd23c9c9125502bf70697b74f715"
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.1.4"
+
+"@fortawesome/fontawesome-pro-regular@^5.0.8":
+  version "5.0.10"
+  resolved "https://npm.fontawesome.com/9FB82052-D159-457E-8222-7547D2502DE8/@fortawesome/fontawesome-pro-regular/-/fontawesome-pro-regular-5.0.10.tgz#0d2d878d3082c6272d87ed06da79d6c193913809"
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.1.4"
+
+"@fortawesome/fontawesome-pro-solid@^5.0.8":
+  version "5.0.10"
+  resolved "https://npm.fontawesome.com/9FB82052-D159-457E-8222-7547D2502DE8/@fortawesome/fontawesome-pro-solid/-/fontawesome-pro-solid-5.0.10.tgz#b0b1c1cd13cd751148828f319fc756536bf72ef7"
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.1.4"
+
+"@fortawesome/fontawesome@^1.1.4":
+  version "1.1.5"
+  resolved "https://npm.fontawesome.com/9FB82052-D159-457E-8222-7547D2502DE8/@fortawesome/fontawesome/-/fontawesome-1.1.5.tgz#c7cfafdd3364245626293cc670357f9fb8487170"
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.1.3"
+
 "@koa/cors@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@koa/cors/-/cors-2.2.1.tgz#c06a1c34d787e3cee79c0d4c20e8952d1b6d75c5"
