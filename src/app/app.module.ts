@@ -19,6 +19,12 @@ import { LoginComponent } from './views/login/login.component';
 import { ComponentsComponent } from './views/components/components.component';
 import { ProblemListComponent } from './views/problem-list/problem-list.component';
 
+import { ProblemStatementComponent } from './views/problem-statement/problem-statement.component';
+import { RootCauseComponent } from './views/root-cause/root-cause.component';
+import { SolutionsComponent } from './views/solution/solutions.component';
+import { ActionsComponent } from './views/actions/actions.component';
+
+
 // C0MPONENTS
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -34,6 +40,10 @@ import { LoadingService } from './services/loading.service';
     LoginComponent,
     ComponentsComponent,
     ProblemListComponent,
+    ProblemStatementComponent,
+    RootCauseComponent,
+    SolutionsComponent,
+    ActionsComponent,
 
     HeaderComponent,
     FooterComponent,
