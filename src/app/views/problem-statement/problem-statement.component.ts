@@ -3,12 +3,10 @@ import { AuthService, LoadingService } from 'app';
 import { ToastrService } from 'ngx-toastr';
 
 @Component({
-  templateUrl: './problem-statement.statement.html',
+  templateUrl: './problem-statement.component.html',
   styleUrls: ['./problem-statement.component.sass']
 })
 export class ProblemStatementComponent {
-  user: any = {}
-  isLoading: boolean;
 
   constructor(
     private auth: AuthService,
